@@ -1,0 +1,79 @@
+id: e2acfd9a847f47e9bdb66751fcc3f286
+annotation_type: index
+revision: '00001'
+annotations:
+  f4f22de764dc45648af02b365f2b6e5c:
+    base: CC4E.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 4
+    - title: Introduction
+      span:
+        start: 5
+        end: 32
+    - title: §0-10
+      span:
+        start: 33
+        end: 1103
+    - title: §11-20
+      span:
+        start: 1104
+        end: 1903
+    - title: §21-30
+      span:
+        start: 1904
+        end: 2423
+    - title: §31-40
+      span:
+        start: 2424
+        end: 2837
+    - title: §41-50
+      span:
+        start: 2838
+        end: 3695
+    - title: §61-70
+      span:
+        start: 3696
+        end: 4573
+    - title: §71-80
+      span:
+        start: 4574
+        end: 5014
+    - title: §81-90
+      span:
+        start: 5015
+        end: 5515
+    - title: §91-100
+      span:
+        start: 5516
+        end: 6614
+    - title: §101-110
+      span:
+        start: 6615
+        end: 7575
+    - title: §111-120
+      span:
+        start: 7576
+        end: 7858
+    - title: §121-130
+      span:
+        start: 7859
+        end: 8644
+    - title: §130-20
+      span:
+        start: 8645
+        end: 9853
+    - title: §141-150
+      span:
+        start: 9854
+        end: 10970
+    - title: §151-160
+      span:
+        start: 10971
+        end: 11669
+    - title: §161-166
+      span:
+        start: 11670
+        end: 11769

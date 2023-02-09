@@ -1,0 +1,16 @@
+id: I3BCF23E2
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:57:50.650134
+last_modified: 2023-02-09 14:57:50.650237
+source_metadata:
+  title: 'RK: Kāśyapaparivarta'
+  language: zh
+bases:
+  CC4E:
+    base_file: CC4E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
